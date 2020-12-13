@@ -3,7 +3,9 @@ Resoulusi madhan tahun 2021 :
 - Set Up meja kerja 
 - memiliki ruangan kerja khusus
 - Update Macbook terbaru
-- Belajar FrameWork Zend
 - Belajar Python
+- Belajar FrameWork Laravel
+- Belajar FrameWork Vue JS
+- Belajar Tailwind CSS
 - Pecah Telor Upwork
 
